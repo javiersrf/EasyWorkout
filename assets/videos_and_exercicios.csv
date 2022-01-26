@@ -1,0 +1,168 @@
+Index;Exercise;PrimaryMuscle;SecondaryMuscle;URL;Priority
+1;Supino Reto Barra;Peitoral Medio;Peitoral Medio;https://youtu.be/sqOw2Y6uDWQ;1
+2;Supino Reto Halteres;Peitoral Medio;Peitoral Medio;https://youtu.be/Spbmm66NsuY;1
+3;Supino Reto Smith;Peitoral Medio;Peitoral Medio;https://youtu.be/b-THwNtIYxY;1
+4;Supino Inclinado Barra;Peitoral Superior;Peitoral Superior;https://youtu.be/lBCjPgnIzKk;1
+5;Supino Inclinado Halteres;Peitoral Superior;Peitoral Superior;https://youtu.be/Z1rCZ0YHrP0;1
+6;Supino Inclinado Smith;Peitoral Superior;Peitoral Superior;https://youtu.be/L4kIk2gMeBw;1
+7;Supino Declinado Barra;Peitoral Inferior;Peitoral Inferior;https://youtu.be/hZ9woVlzGdA;1
+8;Supino Declinado Halteres;Peitoral Inferior;Peitoral Inferior;https://youtu.be/0SFB2chQTPY;1
+9;Supino Declinado Smith;Peitoral Inferior;Peitoral Inferior;https://youtu.be/xLQ9ZbH9ljc;1
+10;Crucifixo Reto Halteres;Peitoral Medio;Peitoral Medio;https://youtu.be/dQi36EfA88c;1
+11;Crucifixo Inclinado Halteres;Peitoral Superior;Peitoral Superior;https://youtu.be/4JvT5Ys1Bog;1
+12;Crucifixo Declinado Halteres;Peitoral Inferior;Peitoral Inferior;https://youtu.be/QsZ8VYaRh34;0
+13;Cross-Over Polia Alta;Peitoral Inferior;Peitoral Inferior;https://youtu.be/HNUji0rHFCs;1
+14;Cross-Over Polia Media;Peitoral Medio;Peitoral Medio;https://youtu.be/iLRFLm82dbg;1
+15;Cross-Over Polia Baixa;Peitoral Superior;Peitoral Superior;https://youtu.be/Jy_hZnK-_lo;1
+16;Flexao De Braco;Peitoral Medio;Peitoral Medio;https://youtu.be/F9FC_KBsLpY;0
+17;Peck Deck \ Crucifixo Na Maquina;Peitoral Medio;Peitoral Medio;https://youtu.be/Ru9OVOUlp0U;1
+18;Barra Fixa Peg Pronada;Grande Dorsal 1;Grande Dorsal;https://youtu.be/JX_YM7Bp26U;1
+19;Barra Fixa Peg Supinada;Grande Dorsal 1;Grande Dorsal;https://youtu.be/WJOu_aru3XM;1
+20;Barra Fixa Com Triangulo;Grande Dorsal 1;Grande Dorsal;https://youtu.be/uCnmHgHgfOs;1
+21;Levantamento Terra;Grande Dorsal 1;Grande Dorsal;https://youtu.be/T3x53s0jEns;1
+22;Puxada Vertical Peg Pronada;Grande Dorsal 1;Grande Dorsal;https://youtu.be/H09EvebBsB4;1
+23;Puxada Vertical Peg Supinada;Grande Dorsal 1;Grande Dorsal;https://youtu.be/v1rPzvJvwIE;1
+24;Puxada Vertical Com Triangulo;Grande Dorsal 1;Grande Dorsal;https://youtu.be/ej9Z_jMQpLY;1
+25;Remada Curvada Peg Pronada;Grande Dorsal 2;Tipo 1;https://youtu.be/XruycmUNi1Y;1
+26;Remada Curvada Peg Supinada;Grande Dorsal 2;Tipo 2;https://youtu.be/y-XZnuKx3Q0;1
+27;Remada Curvada Cavalinho;Grande Dorsal 2;Tipo 3;https://youtu.be/Hdqf7mlEHrA;1
+28;Remada Curvada Halteres Peg Pronada;Grande Dorsal 2;Tipo 1;https://youtu.be/AT8pPML17VU;1
+29;Remada Curvada Halteres Peg Supinada;Grande Dorsal 2;Tipo 2;https://youtu.be/g0VduhIsJIE;1
+30;Remada Curvada Halteres Peg Neutra;Grande Dorsal 2;Tipo 3;https://youtu.be/CyCkDYs49hM;1
+31;Remada Maquina Peg Pronada;Grande Dorsal 2;Tipo 1;https://youtu.be/_g6GeyWVivI;1
+32;Remada Maquina Peg Supinada;Grande Dorsal 2;Tipo 2;https://youtu.be/1CG-dreRL6Q;1
+33;Remada Maquina Peg Neutra;Grande Dorsal 2;Tipo 3;https://youtu.be/C0-C0X7G8eQ;1
+34;Remada Cross Peg Pronada;Grande Dorsal 2;Tipo 1;https://youtu.be/IA0SRm2mY9M;0
+35;Remada Cross Peg Supinada;Grande Dorsal 2;Tipo 2;https://youtu.be/Q5Rl_fnOCBs;0
+36;Remada Cross Peg Neutra;Grande Dorsal 2;Tipo 3;https://youtu.be/wC1EsDy_esM;0
+37;Remada Unilateral Peg Pronada;Grande Dorsal 2;Tipo 1;https://youtu.be/VlCc-rDbwhA;1
+38;Remada Unilateral Peg Supinada;Grande Dorsal 2;Tipo 2;https://youtu.be/MAHNlcA4oXc;1
+39;Remada Unilateral Peg Neutra;Grande Dorsal 2;Tipo 3;https://youtu.be/C-tlPEhjwTk;1
+40;Pull-Down Barra;Grande Dorsal 1;Grande Dorsal;https://youtu.be/qw37xEEcoig;0
+41;Pull-Down Cross Peg Pronada;Grande Dorsal 1;Grande Dorsal;https://youtu.be/EG1ua8lDQJA;0
+42;Pull-Down Cross Peg Supinada;Grande Dorsal 1;Grande Dorsal;https://youtu.be/U80znmkD2z0;0
+43;Pull-Down Cross Corda;Grande Dorsal 1;Grande Dorsal;https://youtu.be/zdLHXB9Sn88;0
+44;Elevacao Lateral Halteres;Deltoide;Deltoide Lateral;https://youtu.be/89K5H0Vvhnw;1
+45;Elevacao Lateral Sentado Halteres;Deltoide;Deltoide Lateral;https://youtu.be/esWhjFJMNtU;0
+46;Elevacao Lateral Cross Posterior;Deltoide;Deltoide Lateral;https://youtu.be/I-ywK8Q-9TM;1
+47;Elevacao Lateral Cross Anterior;Deltoide;Deltoide Lateral;https://youtu.be/8KOat8ZsidI;1
+48;Elevacao Lateral Unilateral Banco Inclinado;Deltoide;Deltoide Lateral;https://youtu.be/8s9JRhE95mU;0
+49;Elevacao Frontal Barra Peg Pronada;Deltoide;Deltoide Frontal;https://youtu.be/jXUIrrvlR_0;1
+50;Elevacao Frontal Barra Peg Supinada;Deltoide;Deltoide Frontal;https://youtu.be/Ea_8qpcysYI;0
+51;Elevacao Frontal Halteres Peg Pronada;Deltoide;Deltoide Frontal;https://youtu.be/0K9NJHXYSm4;1
+52;Elevacao Frontal Halteres Peg Supinada;Deltoide;Deltoide Frontal;https://youtu.be/DuUh84gcaso;0
+53;Elevacao Frontal Halteres Peg Neutra;Deltoide;Deltoide Frontal;https://youtu.be/kQTNDsaEIKc;1
+54;Elevacao Frontal Cross Peg Pronada;Deltoide;Deltoide Frontal;https://youtu.be/mOTjgenwgUc;1
+55;Elevacao Frontal Cross Peg Supinada;Deltoide;Deltoide Frontal;https://youtu.be/lL8hIRuFcnU;0
+56;Elevacao Frontal Cross Corda;Deltoide;Deltoide Frontal;https://youtu.be/xCQLo6LcudM;0
+57;Elevacao Frontal Anilha;Deltoide;Deltoide Frontal;https://youtu.be/5bdlcZZvpzE;0
+58;Elevacao Frontal Cruzada;Deltoide;Deltoide Frontal;https://youtu.be/btAEYSe5kp0;0
+59;Crucifixo Inverso Halteres;Deltoide;Deltoide Posterior;https://youtu.be/SLQZOByDo04;1
+60;Crucifixo Inverso Cross;Deltoide;Deltoide Posterior;https://youtu.be/gWa5abtK4G4;1
+61;Desenvolvimento Halteres;Deltoide Multiarticular;Deltoide Frontal;https://youtu.be/4pU-kV-OaVU;1
+62;Desenvolvimento Anterior;Deltoide Multiarticular;Deltoide Frontal;https://youtu.be/V_15VvJ3mr4;0
+63;Desenvolvimento Posterior;Deltoide Multiarticular;Deltoide Frontal;https://youtu.be/WIlm9oHEEq8;0
+64;Desenvolvimento Militar;Deltoide Multiarticular;Deltoide Frontal;https://youtu.be/urj7vgvfojk;0
+65;Desenvolvimento Smith;Deltoide Multiarticular;Deltoide Frontal;https://youtu.be/oi18jaIbFRM;1
+66;Desenvolvimento Maquina;Deltoide Multiarticular;Deltoide Frontal;https://youtu.be/oBF4YIwh_w8;1
+67;Manguito Rotador Externo Barra;Deltoide;Manguito;https://youtu.be/QdUn8TBdjvU;1
+68;Manguito Rotador Externo Halteres;Deltoide;Manguito;https://youtu.be/2ecstA3a5f4;1
+69;Encolhimento Barra Posterior;Trapezio;Superior;https://youtu.be/Y4w7ZZW84eM;1
+70;Encolhimento Halteres;Trapezio;Superior;https://youtu.be/ZzJ3zelC0qI;1
+71;Encolhimento Smith Anterior;Trapezio;Superior;https://youtu.be/5DQl_71T8iI;1
+72;Encolhimento Smith Posterior;Trapezio;Superior;https://youtu.be/7Ui8zi1w5A4;1
+73;Remada Alta Halteres;Trapezio;Medial;https://youtu.be/hFMCum41W9c;1
+74;Remada Alta Barra;Trapezio;Medial;https://youtu.be/Z6jSLKXZ0Ag;1
+75;Remada Alta Cross;Trapezio;Medial;https://youtu.be/dHjEyNaCmn0;1
+76;Remada Alta Smith;Trapezio;Medial;https://youtu.be/lD_zvmzP1K0;1
+77;Paralelas;Triceps;Tipo 1;https://youtu.be/8ZhWzT-V54Q;1
+78;Mergulho;Triceps;Tipo 1;https://youtu.be/jAkRzFnEvSo;1
+79;Supino Fechado;Triceps;Tipo 1;https://youtu.be/qJGw6CnVh2Q;0
+80;Rosca Testa Barra Peg Pronada;Triceps;Tipo 2;https://youtu.be/orMEOzQjiAs;1
+81;Rosca Testa Barra Peg Supinada;Triceps;Tipo 3;https://youtu.be/D_wnqWbIrYs;0
+82;Rosca Testa Halteres Peg Supinada;Triceps;Tipo 3;https://youtu.be/OS8sz24YV1g;0
+83;Rosca Testa Halteres Peg Neutra;Triceps;Tipo 4;https://youtu.be/KzKdkwIjZg8;1
+84;Rosca Testa Halteres Peg Pronada;Triceps;Tipo 2;https://youtu.be/esAavWMIRZ8;1
+85;Triceps Pulley Corda;Triceps;Tipo 4;https://youtu.be/_KrR8248eLo;1
+86;Triceps Pulley Peg Pronada;Triceps;Tipo 2;https://youtu.be/QDt8P44ORa4;1
+87;Triceps Pulley Peg Supinada;Triceps;Tipo 3;https://youtu.be/2W09NaNpiOA;0
+88;Triceps Pulley Unilateral Peg Pronada;Triceps;Tipo 2;https://youtu.be/TmO_85EK09I;1
+89;Triceps Pulley Unilateral Peg Supinada;Triceps;Tipo 3;https://youtu.be/iO5EOd9Xe4c;0
+90;Rosca Francesa Anilha;Triceps;Tipo 4;https://youtu.be/D2oQJTz-RCA;0
+91;Rosca Francesa Barra Peg Pronada;Triceps;Tipo 2;https://youtu.be/fcIzvqXOJzs;1
+92;Rosca Francesa Barra Peg Supinada;Triceps;Tipo 3;https://youtu.be/xnP-A7ig8No;0
+93;Rosca Francesa Halteres Peg Neutra;Triceps;Tipo 4;https://youtu.be/aI8x4pHiByU;1
+94;Rosca Francesa Halteres Peg Supinada;Triceps;Tipo 3;https://youtu.be/KoLqZRyZuuU;0
+95;Rosca Francesa Halteres Peg Pronada;Triceps;Tipo 2;https://youtu.be/DCbDClEDQvQ;1
+96;Rosca Francesa Cross Corda;Triceps;Tipo 4;https://youtu.be/QhJ67UyNdsc;1
+97;Triceps Coice Bilateral Halteres;Triceps;Tipo 4;https://youtu.be/lbYQgZvJApA;1
+98;Triceps Coice Unilateral Halteres;Triceps;Tipo 4;https://youtu.be/I4hzS9nYlgs;1
+99;Triceps Coice Unilateral Cross;Triceps;Tipo 4;https://youtu.be/MGlqvfSCWLQ;1
+100;Flexao De Braco Fechada;Triceps;Tipo 1;https://youtu.be/9qT4QxmIuuU;0
+101;Rosca Direta Barra Reta ou Barra W;Biceps;Tipo 1;https://youtu.be/po8ibB0yY0Q;1
+102;Rosca Direta Halteres;Biceps;Tipo 1;https://youtu.be/ilyxkSNoyL8;1
+103;Rosca Direta Cross;Biceps;Tipo 1;https://youtu.be/_t2nQjiyboo;1
+104;Rosca Martelo Barra H;Biceps;Tipo 2;https://youtu.be/4YbWsz77mfc;1
+105;Rosca Martelo Corda Cross;Biceps;Tipo 2;https://youtu.be/TXYeSl2QT50;1
+106;Rosca Alternada Halteres;Biceps;Tipo 3;https://youtu.be/v15BcmivG8g;1
+107;Rosca Alternada Cross-Over;Biceps;Tipo 3;https://youtu.be/LiiNiYF4lPY;0
+108;Rosca Scott Halteres;Biceps;Tipo 4;https://youtu.be/WbHASg1d29w;1
+109;Rosca Scott Barra ou Barra W;Biceps;Tipo 4;https://youtu.be/wQRRqKu9g7U;1
+110;Rosca Scott Maquina;Biceps;Tipo 4;https://youtu.be/3GfAZv126D0;0
+111;Rosca Concentrada;Biceps;Tipo 4;https://youtu.be/Cryg5VkGQBw;1
+112;Rosca Concentrada Martelo;Biceps;Tipo 2;https://youtu.be/ysjKbVT6-FQ;0
+113;Flexao de Punho Barra Sentado;Antebracos;Tipo 1;https://youtu.be/pfNPsnjVWb4;1
+114;Flexao de Punho Barra Em Pe;Antebracos;Tipo 1;https://youtu.be/PF1w-a7yQus;1
+115;Extensao de Punho Barra Sentado;Antebracos;Tipo 2;https://youtu.be/gHY5opbOhNE;1
+116;Extensao de Punho Barra Em Pe;Antebracos;Tipo 2;https://youtu.be/guTTkQcy8jU;1
+117;Extensao de Punho Cross;Antebracos;Tipo 2;https://youtu.be/SYHfATlt7LI;1
+118;Flexao de Punho Cross;Antebracos;Tipo 2;https://youtu.be/4_Zf2r-2rAo;1
+119;Rotacional de Punho;Antebracos;Tipo 1;https://youtu.be/MZ8y2hqjHxQ;1
+120;Rosca Inversa Barra;Antebracos;Tipo 3;https://youtu.be/G1L3eV-a7gg;1
+121;Rosca Inversa Cross;Antebracos;Tipo 3;https://youtu.be/0587NfWzEec;1
+122;Rosca Inversa Alternada;Antebracos;Tipo 3;https://youtu.be/k86sqzLgiwY;1
+123;Agachamento Livre;Coxas;Tipo 1;https://youtu.be/4TG8JdU6NPU;1
+124;Agachamento Livre Frontal;Coxas;Tipo 1;https://youtu.be/fJtI1_eUb2g;0
+125;Agachamento Hack;Coxas;Tipo 1;https://youtu.be/QZglgfUQZdk;1
+126;Agachamento Smith;Coxas;Tipo 1;https://youtu.be/4vA727LveHQ;1
+127;Agachamento Smith Frontal;Coxas;Tipo 1;https://youtu.be/_lPh4iHfvXA;0
+128;Agachamento Halteres;Coxas;Tipo 1;https://youtu.be/CROT8O8X_u0;1
+129;Agachamento Adutores;Coxas;Tipo 1;https://youtu.be/T64bNYs5-gI;0
+130;Passada Barra;Coxas;Tipo 2;https://youtu.be/q8oWAsKvdT0;0
+131;Passada Halteres;Coxas;Tipo 2;https://youtu.be/PCSEZejLkjk;1
+132;Afundos Barra;Coxas;Tipo 2;https://youtu.be/YoQL-sR3kFo;1
+133;Afundos Halteres;Coxas;Tipo 2;https://youtu.be/vj7uUw_5HYY;1
+134;Afundos Smith;Coxas;Tipo 2;https://youtu.be/0YjOOxFc7fY;1
+135;Cadeira Extensora;Quadriceps;Quadriceps;https://youtu.be/1f1DjMr68hY;1
+136;Mesa Flexora;Posterior coxa;Posterior coxa;https://youtu.be/OMKhQ2O11fc;1
+137;Cadeira Flexora;Posterior coxa;Posterior coxa;https://youtu.be/n8j1X_xByD4;1
+138;Flexor Vertical;Posterior coxa;Posterior coxa;https://youtu.be/HGoN-nfJFGE;0
+139;Leg Press;Coxas;Tipo 1;https://youtu.be/kyESFAj3W0E;1
+140;Leg Press Adutores;Adutores;Adutores;https://youtu.be/1kjxuWNPBUc;0
+141;Agachamento Bulgaro Halteres;Quadriceps;Quadriceps;https://youtu.be/WyMsCylTcKM;0
+142;Agachamento Bulgaro Barra;Quadriceps;Quadriceps;https://youtu.be/wENBoTTRDa8;0
+143;Cadeira Adutora;Adutores;Adutores;https://youtu.be/UB5qna8tQkw;1
+144;4 Apoios Joelho Estendido;Gluteos;Gluteos;https://youtu.be/C1LK-ca840k;1
+145;4 Apoios Joelho Flexionado;Gluteos;Gluteos;https://youtu.be/3H_WSx0dK-I;1
+146;Gluteos Graviton;Gluteos;Gluteos;https://youtu.be/F2yGtpW4J4s;1
+147;Gluteos Maquina;Gluteos;Gluteos;https://youtu.be/A68gT5W_J50;1
+148;Gluteos Smith;Gluteos;Gluteos;https://youtu.be/PMbVxKqNM7I;1
+149;Gluteos Cross;Gluteos;Gluteos;https://youtu.be/vgjt9LUm6Jg;1
+150;Elevacao Pelvica Barra;Gluteos;Gluteos;https://youtu.be/jqgDVIv581k;1
+151;Elevacao Pelvica Halter;Gluteos;Gluteos;https://youtu.be/XNbfCoWFcFs;1
+152;Elevacao Pelvica Anilha;Gluteos;Gluteos;https://youtu.be/0lPFQdMtNBU;1
+153;Elevacao Pelvica Smith;Gluteos;Gluteos;https://youtu.be/0I3xQYtPCGQ;1
+154;Cadeira Abdutora;Gluteos;Gluteos;https://youtu.be/yVZ0Vs7j6EM;1
+155;Gemeos Em Pe Maquina;Panturrilha;Panturrilha;https://youtu.be/hlQbAQB61_Y;1
+156;Gemeos Em Pe Hack;Panturrilha;Panturrilha;https://youtu.be/GAn7R1U3EDw;1
+157;Gemeos Em Pe Smith;Panturrilha;Panturrilha;https://youtu.be/ER72bXEam4c;1
+158;Gemeos Em Pe Livre;Panturrilha;Panturrilha;https://youtu.be/VMa37XJdejk;1
+159;Gemeos Sentado Maquina;Panturrilha;Panturrilha;https://youtu.be/gBIxBWBorB8;1
+160;Gemeos Sentado Smith;Panturrilha;Panturrilha;https://youtu.be/iK6cVWR3-jI;1
+161;Gemeos Sentado Livre;Panturrilha;Panturrilha;https://youtu.be/CiFlAqIx-lY;1
+162;Gemeos Leg Press;Panturrilha;Panturrilha;https://youtu.be/omdVB4rQnoQ;1
+163;Supra;Abdomen;Abdomen;https://youtu.be/N5SL7rhM07c;1
+164;Infra;Abdomen;Abdomen;https://youtu.be/8slFJ9J31lM;1
+165;Obliquos;Abdomen;Abdomen;https://youtu.be/k9rfQiXoM1w;1
+166;Prancha;Abdomen;Abdomen;https://youtu.be/TxadpmTHK08;1
+167;Extensao Lombar;Lombar;Lombar;https://youtu.be/Jto980puQ3c;1
